@@ -8,6 +8,6 @@ Hello👋, this is a Qr gode generator made my me using python and tkinter libra
 ## Step1 :
 Download and Extract the zip file.
 ## Step 2 :
-Open Command Prompt and type "pip install -r requirements.txt"
+Open Terminal and type "pip install -r requirements.txt"
 ## Step 3 :
 Run qrcode.py and paste your url and done😊.
